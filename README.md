@@ -18,3 +18,6 @@ Secrets are only read from environment variables. Never commit tokens.
 Always test with `--dry-run` first. Use only on systems you are authorized to manage.
 
 License: MIT
+
+## Disclaimer
+Provided for educational and defensive purposes only, as-is and without warranty. Use only on systems and accounts you own or are explicitly authorized to manage. Review and test in a non-production environment before use.
